@@ -11,6 +11,8 @@
 
 **CMRIT Events Hub** (CMRIT-Events) is a robust, full-stack platform built to revolutionize how students interact with campus activities. It bridges the gap between students and club administrators, providing a seamless verifiable record of participation, achievements, and skills.
 
+Live Demo - https://cmrit-events.vercel.app
+
 Solving the problem of fragmented notifications and manual tracking, this platform offers a **"One-Line Source of Truth"**—an automated, verified profile that grows with every hackathon, workshop, and event a student attends.
 
 ## ✨ Key Features
